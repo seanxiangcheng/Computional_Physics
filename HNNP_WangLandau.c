@@ -8,6 +8,9 @@
 	The output is a file with number of occupied particles and their 
  	corresponding density of states
   
+  There are 2 other versions of this method for HN3 and HN5, 
+  in which the data structure is a little different.
+  
   For more information of the model and method:
   http://arxiv.org/abs/1409.8313
 */
