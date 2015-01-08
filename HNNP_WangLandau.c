@@ -3,7 +3,7 @@
 	
   This code is to use Wang-Landau sampling to
   find the density of states of the lattice gas problem 
-	with at-most-1-neighbor density constraint in HN3; 
+	with at-most-1-neighbor density constraint in HNNP; 
 	Periodic Boundary Condition is used in this code; 
 	The output is a file with number of occupied particles and their 
  	corresponding density of states
