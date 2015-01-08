@@ -19,7 +19,7 @@ Functions: See the definitions of each functions
 Comments: This module basically consists of all the classes, functions, 
           varialbes for numerical calculations;
           Plotting and analysis are conducted in other scripts;
-          Example of the usage of this module is "hnrg_eg.py";
+          Example of the usage of this module is "HNRG_eg.py";
           You are welcome to modify the code for your purpose.
           The author assumes no responsibility.
 """
