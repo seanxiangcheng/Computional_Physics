@@ -1,6 +1,6 @@
  /*
   gcc Program.c -lgsl -lgslcblas -lm -o program.x
-  key words: Wang-Landau sampling, non-markov chain, complex networks, disordered system
+  keywords: Wang-Landau sampling, non-markov chain, complex networks, disordered system
   
   This code is to use Wang-Landau sampling to
   find the density of states of the lattice gas problem 
