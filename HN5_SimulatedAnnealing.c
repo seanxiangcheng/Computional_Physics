@@ -1,6 +1,7 @@
  /*
   gcc Program.c -lgsl -lgslcblas -lm -o program.x
-	Key words: simulated annealing, constraint optimization, lattice gas
+  
+  Key words: simulated annealing, constraint optimization, complex networks, disordered system
 
   This code is to use Simulated Annealing to
   find the dynamics and the ground state of the lattice gas problem 
