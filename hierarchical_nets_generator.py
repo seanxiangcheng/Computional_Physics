@@ -1,3 +1,12 @@
+"""
+This module is to generate hierarchical networks 
+using the framework of networkX.
+
+You can import this model and call functions to generate graphs;
+you can also run this script to check how it works
+"""
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
