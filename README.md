@@ -1,13 +1,13 @@
-# Computional Physics Sample Codes
+## Computional Physics Sample Codes
 
-## Keywords: 
+### Keywords: 
  - Monte Carlo Methods
  - Complex Networks
  - Constraint Optimization
  - Wang Landau sampling
  - Simulated Annealing
 
-## Programming Languages
+### Programming Languages
  - C
  - C++
  - Python
